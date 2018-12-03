@@ -1,0 +1,25 @@
+{
+  "name": "mybank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.23",
+    "mongoose": "^5.3.14",
+    "morgan": "^1.9.1",
+    "pino": "^5.9.0",
+    "request": "^2.88.0",
+    "shortid": "^2.2.14"
+  }
+}
